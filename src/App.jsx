@@ -184,7 +184,7 @@ const App = () => {
                             />
                         </div>
                     </div>
-                    <div className=" w-full h-auto lg:h-screen flex  items-center justify-center bg-black">
+                    <div className=" w-full h-auto lg:h-screen  flex  items-center justify-center bg-black ">
                         <div className="cntr w-full h-full lg:h-[80%] flex flex-col lg:flex-row  text-white">
                             <div className="limg h-[50%] lg:h-full w-full lg:w-1/2 relative mt-10 ">
                                 <img
@@ -217,7 +217,7 @@ const App = () => {
                                     tempore ex officiis fuga ratione similique
                                     suscipit neque quibusdam!
                                 </p>
-                                <button className="bg-yellow-500 px-5 py-5 text-3xl text-black mt-10 cursor-pointer">
+                                <button className="bg-yellow-500 px-4 py-4 text-3xl text-black mt-10 cursor-pointer">
                                     {" "}
                                     Download Now
                                 </button>
